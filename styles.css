@@ -1,1 +1,17 @@
 /* Write your CSS here! */
+body {
+    margin: 8px;
+    background: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+}
+#mainHeading {
+    color: red;
+}
+.funParagraph {
+    color: green;
+}
+.nasa {
+    padding: 10px;
+}
+.symetry {
+    text-align: center;
+}
